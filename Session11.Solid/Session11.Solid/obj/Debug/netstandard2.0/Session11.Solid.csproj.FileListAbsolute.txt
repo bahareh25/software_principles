@@ -1,0 +1,6 @@
+D:\Tests\Session11.Solid\Session11.Solid\bin\Debug\netstandard2.0\Session11.Solid.deps.json
+D:\Tests\Session11.Solid\Session11.Solid\bin\Debug\netstandard2.0\Session11.Solid.dll
+D:\Tests\Session11.Solid\Session11.Solid\obj\Debug\netstandard2.0\Session11.Solid.csprojAssemblyReference.cache
+D:\Tests\Session11.Solid\Session11.Solid\obj\Debug\netstandard2.0\Session11.Solid.csproj.CoreCompileInputs.cache
+D:\Tests\Session11.Solid\Session11.Solid\obj\Debug\netstandard2.0\Session11.Solid.AssemblyInfoInputs.cache
+D:\Tests\Session11.Solid\Session11.Solid\obj\Debug\netstandard2.0\Session11.Solid.AssemblyInfo.cs
